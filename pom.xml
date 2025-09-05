@@ -1,9 +1,9 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>at.fh_burgenland.bswe.algo</groupId>
+    <groupId>at.hochschule.burgenland.bswe.algo</groupId>
     <artifactId>template</artifactId>
-    <version>1</version>
+    <version>1.0.0</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

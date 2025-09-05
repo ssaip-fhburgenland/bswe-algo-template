@@ -1,4 +1,4 @@
-package at.fh_burgenland.bswe.algo;
+package at.hochschule.burgenland.bswe.algo;
 
 import lombok.extern.log4j.Log4j2;
 
