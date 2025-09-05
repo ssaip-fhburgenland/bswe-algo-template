@@ -12,10 +12,10 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <junit.version>5.11.0</junit.version>
-        <log4j.version>2.21.0</log4j.version>
-        <lombok.version>1.18.34</lombok.version>
-        <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
+        <junit.version>5.13.4</junit.version>
+        <log4j.version>2.25.1</log4j.version>
+        <lombok.version>1.18.38</lombok.version>
+        <maven-compiler-plugin.version>3.14.0</maven-compiler-plugin.version>
     </properties>
 
     <dependencies>
